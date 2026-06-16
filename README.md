@@ -7,7 +7,6 @@ on your facial expression.
 Course project for **CMP3011: Introduction to Computer Vision**, Bahçeşehir University.
 
 - **Authors:** Cansu Culu, Mina Ezo Aycı
-- **Instructor:** MD Imran Hosen
 
 ## What it does
 
